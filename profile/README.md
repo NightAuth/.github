@@ -18,7 +18,7 @@
 <table width="100%" cellpadding="8" cellspacing="12" style="border: 1px solid #444; padding: 16px;">
   <tr>
     <!-- Columna 1: Client SDKs -->
-    <td valign="top" width="40%">
+    <td valign="top" width="54%">
       <h3>
         <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2360a5fa" width="18" height="18" alt="" vertical-align="middle" />
         &nbsp;Client SDKs
@@ -27,51 +27,61 @@
         <thead>
           <tr>
             <th align="left" style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;">Language</th>
-            <th align="left" style="padding: 6px 8px; border-bottom: 1px solid #30363d;">Repository</th>
+            <th align="left" style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;">Repository</th>
+            <th align="left" style="padding: 6px 8px; border-bottom: 1px solid #30363d;">Examples</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://cdn.simpleicons.org/c/A8B9CC/white" width="16" height="16" vertical-align="middle" />&nbsp; C</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-C-SDK"><strong>NightAuth-C-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-C-SDK"><strong>NightAuth-C-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code> <code>Desktop (Win32 GDI)</code></td>
           </tr>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="16" height="16" vertical-align="middle" />&nbsp; C++</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-CPP-SDK"><strong>NightAuth-CPP-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-CPP-SDK"><strong>NightAuth-CPP-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code> <code>Desktop (Win32 GDI+)</code></td>
           </tr>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="16" height="16" vertical-align="middle" />&nbsp; C#</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-CSharp-SDK"><strong>NightAuth-CSharp-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-CSharp-SDK"><strong>NightAuth-CSharp-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code> <code>Desktop (WPF)</code></td>
           </tr>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="16" height="16" vertical-align="middle" />&nbsp; Go</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Go-SDK"><strong>NightAuth-Go-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Go-SDK"><strong>NightAuth-Go-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code> <code>Desktop (Win32 GDI)</code></td>
           </tr>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="16" height="16" vertical-align="middle" />&nbsp; Java</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Java-SDK"><strong>NightAuth-Java-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Java-SDK"><strong>NightAuth-Java-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code> <code>Desktop (Swing)</code></td>
           </tr>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16" height="16" vertical-align="middle" />&nbsp; Node.js</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Node.js-SDK"><strong>NightAuth-Node.js-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Node.js-SDK"><strong>NightAuth-Node.js-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code></td>
           </tr>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" height="16" vertical-align="middle" />&nbsp; Python</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Python-SDK"><strong>NightAuth-Python-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Python-SDK"><strong>NightAuth-Python-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code> <code>Desktop (PyQt6)</code></td>
           </tr>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://cdn.simpleicons.org/rust/dea584/white" width="16" height="16" vertical-align="middle" />&nbsp; Rust</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Rust-SDK"><strong>NightAuth-Rust-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Rust-SDK"><strong>NightAuth-Rust-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code> <code>Desktop (Win32 GDI)</code></td>
           </tr>
           <tr>
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16" height="16" vertical-align="middle" />&nbsp; TypeScript</td>
-            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-TypeScript-SDK"><strong>NightAuth-TypeScript-SDK</strong></a></td>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-TypeScript-SDK"><strong>NightAuth-TypeScript-SDK</strong></a></td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><code>Console</code></td>
           </tr>
         </tbody>
       </table>
     </td>
     <!-- Columna 2: Bots -->
-    <td valign="top" width="30%">
+    <td valign="top" width="23%">
       <h3>
         <img src="https://api.iconify.design/lucide/bot.svg?color=%23a855f7" width="18" height="18" alt="" vertical-align="middle" />
         &nbsp;Bots
@@ -96,7 +106,7 @@
       </table>
     </td>
     <!-- Columna 3: Customer Portal -->
-    <td valign="top" width="30%">
+    <td valign="top" width="23%">
       <h3>
         <img src="https://api.iconify.design/lucide/user-round.svg?color=%2338bdf8" width="18" height="18" alt="" vertical-align="middle" />
         &nbsp;Customer Portal
