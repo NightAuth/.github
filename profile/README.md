@@ -113,6 +113,18 @@
             <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="16" height="16" vertical-align="middle" />&nbsp; Astro</td>
             <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Astro-Portal"><strong>Astro Portal</strong></a></td>
           </tr>
+          <tr>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://cdn.simpleicons.org/htmx/3366CC" width="16" height="16" vertical-align="middle" />&nbsp; HTMX</td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-HTMX-Portal"><strong>HTMX Portal</strong></a></td>
+          </tr>
+          <tr>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://cdn.simpleicons.org/php/777BB4" width="16" height="16" vertical-align="middle" />&nbsp; PHP</td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-PHP-Portal"><strong>PHP Portal</strong></a></td>
+          </tr>
+          <tr>
+            <td style="border-right: 1px solid #30363d; padding: 6px 8px; border-bottom: 1px solid #30363d;"><img src="https://cdn.simpleicons.org/vite/646CFF" width="16" height="16" vertical-align="middle" />&nbsp; Vite</td>
+            <td style="padding: 6px 8px; border-bottom: 1px solid #30363d;"><a href="https://github.com/NightAuth/NightAuth-Vite-Portal"><strong>Vite Portal</strong></a></td>
+          </tr>
         </tbody>
       </table>
     </td>
